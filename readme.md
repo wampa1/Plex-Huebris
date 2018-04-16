@@ -1,10 +1,13 @@
 Create environment variables for each of the following:
 
 PLEX_SERVER
+
 PLEX_PORT
+
 PLEX_TOKEN
 
 HUE_SERVER
+
 HUE_USER
 
 https://developers.meethue.com/documentation/getting-started
