@@ -38,3 +38,6 @@ GET to
 
 Need to get your X-PLEX-TOKEN
 https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
+
+Configure a web hook in Plex to route to where this is running, port 8080 /api/hook
+https://support.plex.tv/articles/115002267687-webhooks/
